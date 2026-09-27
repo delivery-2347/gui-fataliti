@@ -6863,4 +6863,4 @@ function NeverLose:Unload()
 	end;
 end;
 
-return NeverLose;
+return NeverLose
